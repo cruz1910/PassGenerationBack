@@ -1,0 +1,23 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+### IDEs ###
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Spring ###
+spring.log
+application-*.properties
+
+### Build ###
+build/
+out/
+*.class
+
+### OS ###
+.DS_Store
+Thumbs.db
